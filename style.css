@@ -1,0 +1,28 @@
+h1{
+    background-color: rgb(245, 245, 103);
+    display: flex;
+    justify-content: center;
+}
+
+
+.sect{
+    display: flex;
+    justify-content: center;
+}
+
+.info{
+    background-color: chocolate;
+}
+
+.num{
+    background-color: rgb(219, 219, 219);
+    text-align: center;
+}
+
+.city{
+    background-color: indianred;
+}
+
+.popu{
+    background-color: indianred;
+}
